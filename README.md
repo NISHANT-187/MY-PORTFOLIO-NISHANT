@@ -1,10 +1,6 @@
 # Hi, I'm Nishant Kumar 👋
 ### Computer Science Undergraduate | Full-Stack Developer | IoT Enthusiast | Defence Technology Explorer
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/NISHANT-187/count.svg" alt="Visitor Count" />
-</p>
-
 ---
 
 ## 👨‍💻 Profile Summary
